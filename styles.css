@@ -30,6 +30,13 @@ h1 {
     font-size: 3rem;
 }
 
+h2 {
+    font-weight: 300;
+    color: black;
+    font-size: 1rem;
+}
+
+
 
 #intro {
     padding-top: 200px;
