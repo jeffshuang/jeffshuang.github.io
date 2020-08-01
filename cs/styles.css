@@ -68,6 +68,16 @@ h2 {
 }
 
 
+.pokemon {
+    position:relative;
+    cursor: help;
+}
+
+.pokemon img{
+    position:fixed;
+    bottom:0;
+    right:0;
+}
 
 
 
